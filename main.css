@@ -1,0 +1,19 @@
+p{
+  color:green;
+  font-family:"Times New Roman"
+}
+
+.blue-text:hover {
+  color: red;
+  backround-color: black;
+  font-family: monospace;
+  border-color: grey;
+  border width: 10px;
+  margin: 30px;
+  text-align: left;
+  font-size:25 pt;
+
+p{
+  color:green;
+  font-family: "Times New Roman"
+}
